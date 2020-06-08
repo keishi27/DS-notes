@@ -1,2 +1,1 @@
-Data science processing notes. Inspired by Jose Portillo's course
-https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/
+Data science processing notes. Original data from [Jose Portillo](https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/)
